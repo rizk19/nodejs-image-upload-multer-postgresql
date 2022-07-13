@@ -1,6 +1,6 @@
-# TUTORIAL : IMAGE-UPLOAD-MULTER
+# SIMPLE IMAGE-UPLOAD-MULTER
 
-The tutorial on how to implement image uploads using Express and Multer with postgres sql as the database
+simply implementing image uploads using Express and Multer with postgres sql as the database
 
 ## How to Run
 
