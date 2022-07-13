@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "lint:fix": "eslint --fix ."
   },
-  "author": "Yunseo Hwang",
+  "author": "rizk19",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^7.19.0",
